@@ -63,6 +63,7 @@ plt.show()
 ## Output:
 ```
 
+
 ```
 ## Result:
 Thus, Principal Component Analysis (PCA) was successfully implemented to reduce the dimensionality of the energy dataset.
